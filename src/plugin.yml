@@ -1,0 +1,7 @@
+name: DynmapClaims
+version: 0.1.1
+main: me.fluffy.DynmapClaims.Loader
+description: Small command interface for easy claiming of areas
+commands:
+  claim:
+  deleteclaim:
